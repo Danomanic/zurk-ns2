@@ -3,22 +3,25 @@
         "Admin": {
             "Commands": [ "sh_kick", "sh_ban" ],
             "Immunity": 50,
-            "IsBlacklist": false
+            "IsBlacklist": false,
+            "Badges": [ "crown" ]
         },
         "Mod": {
             "Commands": [ "sh_kick" ],
             "Immunity": 10,
-            "IsBlacklist": false
+            "IsBlacklist": false,
+            "Badges": [ "heart" ]
         },
         "SuperAdmin": {
             "Commands": [],
             "Immunity": 100,
-            "IsBlacklist": true
+            "IsBlacklist": true,
+            "Badges": [ "crown", "heart" ]
         }
     },
     "Users": {
         "76561198118951569": {
-            "Group": "Mod",
+            "Group": "SuperAdmin",
             "Immunity": 2
         }
     }

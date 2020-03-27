@@ -1,7 +1,7 @@
 {
     "MessageDelay": 5,
     "ShowForBots": false,
-    "ShowGeneric": false,
+    "ShowGeneric": true,
     "Users": {
         "90000001": {
             "Leave": "Bob is off to fight more important battles.",

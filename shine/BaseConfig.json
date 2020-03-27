@@ -6,7 +6,7 @@
         "improvedchat": false
     },
     "ActiveExtensions": {
-        "adverts": false,
+        "adverts": true,
         "afkkick": true,
         "autoperfprofile": false,
         "badges": true,
@@ -34,7 +34,7 @@
         "pregame": false,
         "pregameplus": true,
         "readyroom": false,
-        "readyroomqueue": false,
+        "readyroomqueue": true,
         "reservedslots": true,
         "roundlimiter": true,
         "serverswitch": true,

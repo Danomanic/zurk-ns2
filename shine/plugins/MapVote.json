@@ -80,7 +80,7 @@
         "MaxTotalValue": 0,
         "MinTotalValue": 0
     },
-    "RoundLimit": 0,
+    "RoundLimit": 2,
     "ShowVoteChoices": true,
     "TieFails": false,
     "VoteDelayInMinutes": 10,

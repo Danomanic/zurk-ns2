@@ -3,8 +3,7 @@
     "Delay": 5,
     "MessageColour": [ 255, 255, 255 ],
     "MessageText": [
-        "Welcome to my awesome server!",
-        "Admins can be reached @ mywebsite.com",
+        "Welcome to this ZURK.UK server!",
         "Have a pleasant stay!"
     ],
     "Mode": "TEXT_ONLY",
