@@ -1,6 +1,6 @@
 {
-  "maps":[],
+  "maps":["ns2_biodome","ns2_caged","ns2_derelict","ns2_veil","ns2_unearthed","ns2_docking","ns2_descent","ns2_tram","ns2_eclipse","ns2_kodiak","ns2_mineshaft","ns2_refinery","ns2_summit","ns2_origin"],
   "time":30,
   "mode":"random",
-  "mods":["4241b84e","626fc17b","c6fbbb0","334982d2","706d242","72c5fd4e","235ee3a6","4292cdec","b7149f9"]
+  "mods":["4241b84e","626fc17b","c6fbbb0","b7149f9","334982d2","706d242","72c5fd4e","235ee3a6","4292cdec"]
 }
