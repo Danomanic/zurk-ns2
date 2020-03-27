@@ -1,0 +1,25 @@
+{
+    "Groups": {
+        "Admin": {
+            "Commands": [ "sh_kick", "sh_ban" ],
+            "Immunity": 50,
+            "IsBlacklist": false
+        },
+        "Mod": {
+            "Commands": [ "sh_kick" ],
+            "Immunity": 10,
+            "IsBlacklist": false
+        },
+        "SuperAdmin": {
+            "Commands": [],
+            "Immunity": 100,
+            "IsBlacklist": true
+        }
+    },
+    "Users": {
+        "76561198118951569": {
+            "Group": "Mod",
+            "Immunity": 2
+        }
+    }
+}

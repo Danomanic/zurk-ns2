@@ -1,0 +1,7 @@
+{
+    "MaxRoundLength": 60,
+    "WarningRepeatTimes": 5,
+    "WarningTime": 5,
+    "WinCondition": 1,
+    "__Version": "1.0"
+}

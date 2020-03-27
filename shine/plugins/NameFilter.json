@@ -1,0 +1,7 @@
+{
+    "BanLength": 1440,
+    "FilterAction": "RENAME",
+    "Filters": [],
+    "ForcedNames": [],
+    "__Version": "1.2"
+}

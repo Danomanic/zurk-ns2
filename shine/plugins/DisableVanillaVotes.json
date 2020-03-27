@@ -1,0 +1,33 @@
+{
+    "Message": {
+        "B": 243,
+        "G": 194,
+        "R": 81
+    },
+    "VoteChangeMap": {
+        "DisableWhenAdminOnline": false,
+        "Enabled": true,
+        "Message": "To vote to change the map, press %s > RTV."
+    },
+    "VoteKickPlayer": {
+        "DisableWhenAdminOnline": true,
+        "Enabled": true,
+        "Message": "Please contact a server operator to get a player kicked."
+    },
+    "VoteRandomizeRR": {
+        "DisableWhenAdminOnline": false,
+        "Enabled": true,
+        "Message": "To vote to randomize teams, press %s > Shuffle."
+    },
+    "VoteResetGame": {
+        "DisableWhenAdminOnline": true,
+        "Enabled": true,
+        "Message": "Please contact a  server operator to reset the game."
+    },
+    "VotingForceEvenTeams": {
+        "DisableWhenAdminOnline": false,
+        "Enabled": true,
+        "Message": "To vote to force even teams, press %s > Shuffle."
+    },
+    "__Version": "1.0"
+}
