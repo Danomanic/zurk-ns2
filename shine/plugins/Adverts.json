@@ -2,13 +2,16 @@
     "Adverts": [
         {
             "DefaultTemplate": "ChatNotification",
-            "IntervalInSeconds": 60,
+            "IntervalInSeconds": 300,
             "Messages": [
                 {
-                    "Message": "Welcome to Natural Selection 2."
+                    "Message": "Hint: Build the power before the Resource Node!"
                 },
                 {
-                    "Message": "This server is running the Shine administration mod."
+                    "Message": "Hint: As an Alien be sneaky sneaky!"
+                },
+                {
+                    "Message": "Hint: Work as a team"
                 }
             ],
             "RandomiseOrder": false
