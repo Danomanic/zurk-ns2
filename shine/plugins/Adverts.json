@@ -1,0 +1,28 @@
+{
+    "Adverts": [
+        {
+            "DefaultTemplate": "ChatNotification",
+            "IntervalInSeconds": 60,
+            "Messages": [
+                {
+                    "Message": "Welcome to Natural Selection 2."
+                },
+                {
+                    "Message": "This server is running the Shine administration mod."
+                }
+            ],
+            "RandomiseOrder": false
+        }
+    ],
+    "LogLevel": "INFO",
+    "Templates": {
+        "ChatNotification": {
+            "Colour": [ 255, 255, 255 ],
+            "Prefix": "[Info]",
+            "PrefixColour": [ 0, 200, 255 ],
+            "Type": "chat"
+        }
+    },
+    "TriggeredAdverts": [],
+    "__Version": "2.4"
+}
