@@ -6,19 +6,15 @@
     "rookie_only":false,
     "force_even_teams_on_join":true,
     "enabledyndns":false,
-    "jit_maxmcode":36000,
-    "end_round_on_team_unbalance_check_after_time":300,
+    "rookie_only_bots":12,
+    "jit_maxtrace":23000,
     "use_own_consistency_config":false,
     "season_month":0,
     "hiveranking":true,
-    "jit_maxtrace":20000,
+    "jit_maxmcode":40000,
     "auto_kick_afk_capacity":0.5,
-    "auto_team_balance":{
-      "enabled_after_seconds":10,
-      "enabled":true,
-      "enabled_on_unbalance_amount":2
-    },
-    "rookie_only_bots":12,
+    "auto_vote_add_commander_bots":true,
+    "end_round_on_team_unbalance_check_after_time":300,
     "consistency_enabled":true,
     "end_round_on_team_unbalance":0.4,
     "dyndns":"",
@@ -34,11 +30,15 @@
     "pregamealltalk":true,
     "mod_backup_before_steam":false,
     "alltalk":false,
-    "auto_vote_add_commander_bots":true,
+    "auto_kick_afk_time":300,
     "season":"",
-    "mod_backup_servers":[],
+    "auto_team_balance":{
+      "enabled_after_seconds":10,
+      "enabled":true,
+      "enabled_on_unbalance_amount":2
+    },
     "end_round_on_team_unbalance_after_warning_time":30,
     "filler_bots":12,
-    "auto_kick_afk_time":300
+    "mod_backup_servers":[]
   }
 }
