@@ -1,0 +1,22 @@
+[
+    {
+        "enemyspawns": [ "sewer", "ventilation system" ],
+        "name": "main hold",
+        "team": "marines"
+    },
+    {
+        "enemyspawns": [ "main hold" ],
+        "name": "ventilation system",
+        "team": "aliens"
+    },
+    {
+        "enemyspawns": [ "main hold" ],
+        "name": "sewer",
+        "team": "aliens"
+    },
+    {
+        "enemyspawns": [ "main hold" ],
+        "name": "generator",
+        "team": "none"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "enemyspawns": [ "sub-sector", "cargo" ],
+        "name": "control",
+        "team": "marines"
+    },
+    {
+        "enemyspawns": [ "control" ],
+        "name": "sub-sector",
+        "team": "aliens"
+    },
+    {
+        "enemyspawns": [ "control" ],
+        "name": "pipeline",
+        "team": "none"
+    },
+    {
+        "enemyspawns": [ "control" ],
+        "name": "cargo",
+        "team": "aliens"
+    }
+]

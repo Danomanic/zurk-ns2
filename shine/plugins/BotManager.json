@@ -1,0 +1,9 @@
+{
+    "AllowPlayersToReplaceComBots": true,
+    "BotTickRate": 10,
+    "CommanderBots": false,
+    "CommanderBotsStartDelay": 20,
+    "LoginCommanderBotAtLogout": false,
+    "MaxBots": 12,
+    "__Version": "0.2"
+}

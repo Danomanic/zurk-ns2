@@ -1,0 +1,22 @@
+[
+    {
+        "enemyspawns": [ "Generator", "Locker Rooms" ],
+        "name": "Terminal",
+        "team": "marines"
+    },
+    {
+        "enemyspawns": [ "Generator" ],
+        "name": "Cafeteria",
+        "team": "marines"
+    },
+    {
+        "enemyspawns": [ "Terminal" ],
+        "name": [ "Generator", "Locker Rooms" ],
+        "team": "aliens"
+    },
+    {
+        "enemyspawns": [ "Cafeteria" ],
+        "name": "Generator",
+        "team": "aliens"
+    }
+]

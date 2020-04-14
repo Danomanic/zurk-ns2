@@ -1,0 +1,17 @@
+{
+    "Maps": {
+        "ns2_biodome": false,
+        "ns2_caged": false,
+        "ns2_derelict": false,
+        "ns2_descent": false,
+        "ns2_docking": true,
+        "ns2_eclipse": false,
+        "ns2_kodiak": false,
+        "ns2_mineshaft": true,
+        "ns2_refinery": false,
+        "ns2_summit": false,
+        "ns2_tram": false,
+        "ns2_veil": true
+    },
+    "__Version": "1.1"
+}

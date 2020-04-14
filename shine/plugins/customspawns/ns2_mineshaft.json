@@ -1,0 +1,20 @@
+[
+    {
+        "enemyspawns": [ "Cave" ],
+        "name": "Operations",
+        "team": "marines"
+    },
+    {
+        "enemyspawns": [ "Sorting" ],
+        "name": "Repair",
+        "team": "marines"
+    },
+    {
+        "name": "Cave",
+        "team": "aliens"
+    },
+    {
+        "name": "Sorting",
+        "team": "aliens"
+    }
+]

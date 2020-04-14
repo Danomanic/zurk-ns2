@@ -1,6 +1,6 @@
 {
-    "SlotType": "PLAYABLE",
+    "SlotType": "ALL",
     "Slots": 2,
-    "TakeSlotInstantly": true,
+    "TakeSlotInstantly": false,
     "__Version": "2.2"
 }

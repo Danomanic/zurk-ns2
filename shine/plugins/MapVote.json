@@ -1,19 +1,19 @@
 {
     "AllowExtend": true,
-    "AlwaysExtend": true,
+    "AlwaysExtend": false,
     "BlockAfterRoundTimeInMinutes": 0,
-    "ChangeDelayInSeconds": 10,
+    "ChangeDelayInSeconds": 8,
     "ChooseRandomOnTie": true,
     "ConsiderSimilarMapsAsExtension": false,
     "Constraints": {
         "MapVote": {
             "MinVotesRequired": {
                 "Type": "FRACTION_OF_PLAYERS",
-                "Value": 0.6
+                "Value": 0
             },
             "MinVotesToFinish": {
                 "Type": "FRACTION_OF_PLAYERS",
-                "Value": 0.8
+                "Value": 1
             }
         },
         "NextMapVote": {
@@ -29,47 +29,35 @@
         "StartVote": {
             "MinPlayers": {
                 "Type": "ABSOLUTE",
-                "Value": 10
+                "Value": 1
             },
             "MinVotesRequired": {
                 "Type": "FRACTION_OF_PLAYERS",
-                "Value": 0.6
+                "Value": 0.55
             }
         }
     },
     "CycleOnEmpty": false,
-    "DontExtend": [],
+    "DontExtend": {},
     "EmptyPlayerCount": 0,
     "EnableNextMapVote": true,
     "EnableRTV": true,
     "ExcludeLastMaps": {
-        "Max": 0,
-        "Min": 0,
+        "Max": 4,
+        "Min": 4,
         "UseStrictMatching": true
     },
-    "ExtendTimeInMinutes": 15,
-    "ForceChangeWhenSecondsLeft": 60,
-    "ForceMenuOpenOnMapVote": false,
-    "ForcedMaps": [],
+    "ExtendTimeInMinutes": 10,
+    "ForceChangeWhenSecondsLeft": 120,
+    "ForceMenuOpenOnMapVote": true,
+    "ForcedMaps": {},
     "GetMapsFromMapCycle": true,
-    "IgnoreAutoCycle": [],
+    "IgnoreAutoCycle": {},
     "LogLevel": "INFO",
-    "Maps": {
-        "ns2_biodome": true,
-        "ns2_descent": true,
-        "ns2_docking": true,
-        "ns2_eclipse": true,
-        "ns2_kodiak": true,
-        "ns2_mineshaft": true,
-        "ns2_refinery": true,
-        "ns2_summit": true,
-        "ns2_tram": true,
-        "ns2_veil": true
-    },
+    "Maps": {},
     "MaxExtends": 1,
     "MaxOptions": 8,
     "MaxRevotes": 1,
-    "MaxVoteChoicesPerPlayer": 4,
     "NextMapVoteMapTimeFraction": 1,
     "Nominations": {
         "AllowExcludedMaps": false,
@@ -80,17 +68,16 @@
         "MaxTotalValue": 0,
         "MinTotalValue": 0
     },
-    "RoundLimit": 2,
+    "RoundLimit": 0,
     "ShowVoteChoices": true,
     "TieFails": false,
-    "VoteDelayInMinutes": 10,
-    "VoteLengthInMinutes": 1,
+    "VoteDelayInMinutes": 1,
+    "VoteLengthInMinutes": 0.833,
     "VoteSettings": {
-        "AFKTimeInSeconds": 60,
-        "ConsiderAFKPlayersInVotes": true,
+        "AFKTimeInSeconds": 80,
+        "ConsiderAFKPlayersInVotes": false,
         "ConsiderSpectatorsInVotes": true
     },
     "VoteTimeoutInSeconds": 60,
-    "VotingMode": "SINGLE_CHOICE",
-    "__Version": "1.12"
+    "__Version": "1.11"
 }

@@ -1,33 +1,33 @@
 {
     "AllTalk": false,
     "AllTalkLocal": false,
-    "AllTalkPreGame": false,
-    "AllTalkSpectator": false,
+    "AllTalkPreGame": true,
+    "AllTalkSpectator": true,
     "CommanderBotVoteDelayInSeconds": 300,
     "CustomVotePrefix": "POLL: ",
-    "DisableLuaRun": false,
+    "DisableLuaRun": true,
     "EjectVotesNeeded": [
         {
-            "FractionOfTeamToPass": 0.5
+            "FractionOfTeamToPass": 0.4
         }
     ],
     "FriendlyFire": false,
-    "FriendlyFirePreGame": true,
+    "FriendlyFirePreGame": false,
     "FriendlyFireScale": 1,
     "GaggedPlayers": [],
     "LogLevel": "INFO",
     "Rates": {
         "ApplyRates": true,
-        "BWLimit": 50,
+        "BWLimit": 100,
         "Interp": 100,
         "MoveRate": 26,
-        "SendRate": 20,
+        "SendRate": 25,
         "TickRate": 30
     },
     "VoteSettings": {
         "VoteKickPlayer": {
             "AFKTimeInSeconds": 60,
-            "ConsiderAFKPlayersInVotes": true
+            "ConsiderAFKPlayersInVotes": false
         }
     },
     "__Version": "1.6"

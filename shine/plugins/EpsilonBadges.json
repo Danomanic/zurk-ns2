@@ -1,9 +1,9 @@
 {
     "Debug": false,
-    "ENSLTeams": false,
-    "ENSLTeamsRow": 4,
+    "ENSLTeams": true,
+    "ENSLTeamsRow": 1,
     "Flags": true,
-    "FlagsRow": 1,
+    "FlagsRow": 2,
     "ForceENSLTeamsBadge": false,
     "ForceFlagsBadge": true,
     "ForceSteamBadge": false,

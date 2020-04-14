@@ -1,0 +1,22 @@
+{
+    "AllowSpectating":true,
+    "BlockCC":true,
+    "BlockMessage":"You need 100 hours of NS2 to command on this server.",
+    "BlockTeams":true,
+    "Debug":true,
+    "DisableAfterRoundtime":2,
+    "InformMessage":"20 hours to play and 100 hours to command on this server.",
+    "Kick":false,
+    "KickMessage":"You will be kicked in %s seconds",
+    "Kicktime":20,
+    "LastPluginVersion":"1.7",
+    "MinComPlaytime":100,
+    "MinPlayer":1,
+    "MinPlayerCom":1,
+    "MinPlaytime":20,
+    "ShowInform":true,
+    "ShowSwitchAtBlock":false,
+    "UseSteamTime":true,
+    "WaitMessage":"Please wait while we fetch your stats.",
+    "__Version":"1.7"
+  }

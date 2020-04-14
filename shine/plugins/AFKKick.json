@@ -1,26 +1,26 @@
 {
-    "Delay": 1,
+    "Delay": 0,
     "IgnoreSpectators": false,
-    "KickOnConnect": false,
-    "KickTimeInMinutes": 15,
-    "KickTimeIsAFKThreshold": 0.25,
+    "KickOnConnect": true,
+    "KickTimeInMinutes": 2,
+    "KickTimeIsAFKThreshold": 0.5,
     "Leniency": {
-        "NoImmunity": "STRICT",
-        "PartialImmunity": "STRICT"
+        "NoImmunity": "LENIENT",
+        "PartialImmunity": "LENIENT"
     },
-    "LogLevel": "INFO",
+    "LogLevel": "DEBUG",
     "MarkPlayersAFK": true,
-    "MinPlayers": 10,
-    "MovementDelaySeconds": 0,
-    "OnlyCheckOnStarted": false,
+    "MinPlayers": 25,
+    "MovementDelaySeconds": 10,
+    "OnlyCheckOnStarted": true,
     "PlayerCountRules": [],
     "SampleIntervalInSeconds": 0.25,
     "Warn": true,
     "WarnActions": {
-        "NoImmunity": [],
-        "PartialImmunity": []
+        "NoImmunity": [ "MOVE_TO_SPECTATE", "NOTIFY" ],
+        "PartialImmunity": [ "MOVE_TO_SPECTATE", "NOTIFY" ]
     },
-    "WarnMinPlayers": 5,
-    "WarnTimeInMinutes": 5,
+    "WarnMinPlayers": 16,
+    "WarnTimeInMinutes": 0.84,
     "__Version": "1.10"
 }

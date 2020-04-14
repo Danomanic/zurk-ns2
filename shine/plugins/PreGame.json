@@ -1,11 +1,11 @@
 {
-    "AbortIfNoCom": true,
+    "AbortIfNoCom": false,
     "AllowAttackPreGame": true,
-    "CountdownTimeInSeconds": 15,
-    "MinPlayers": 0,
-    "Mode": "ONE_COMMANDER_COUNTDOWN",
+    "CountdownTimeInSeconds": 10,
+    "MinPlayers": 1,
+    "Mode": "MIN_PLAYER_COUNT",
     "PreGameTimeInSeconds": 45,
     "ShowCountdown": true,
-    "StartDelayInSeconds": 30,
+    "StartDelayInSeconds": 90,
     "__Version": "1.7"
 }

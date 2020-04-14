@@ -1,12 +1,12 @@
 {
-    "AutoBan": true,
-    "BanTime": 60,
-    "CheckCommunityBans": true,
-    "CheckENSLBans": false,
-    "CheckENSLGatherBans": false,
-    "CheckENSLMutes": false,
-    "CheckEconomyBans": true,
-    "CheckVACBans": true,
-    "MaxDaysSinceLastSteamBan": 180,
-    "__Version": "1.0"
-}
+    "AutoBan":true,
+    "BanTime":1440,
+    "CheckCommunityBans":false,
+    "CheckENSLBans":true,
+    "CheckENSLGatherBans":false,
+    "CheckENSLMutes":false,
+    "CheckEconomyBans":true,
+    "CheckVACBans":true,
+    "MaxDaysSinceLastSteamBan":500,
+    "__Version":"1.0"
+  }
