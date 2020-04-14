@@ -1,7 +1,7 @@
 {
     "AlwaysBlockFamilySharedPlayers": false,
     "BanSharerOnSharedBan": false,
-    "Banned": [],
+    "Banned": {},
     "BansSubmitArguments": [],
     "BansSubmitURL": "",
     "BansURL": "",
@@ -12,6 +12,6 @@
     "LogLevel": "INFO",
     "MaxSubmitRetries": 3,
     "SubmitTimeout": 5,
-    "VanillaConfigUpToDate": false,
+    "VanillaConfigUpToDate": true,
     "__Version": "1.6"
 }

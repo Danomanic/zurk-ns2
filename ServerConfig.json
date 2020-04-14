@@ -36,9 +36,20 @@
     "alltalk":false,
     "auto_kick_afk_time":300,
     "season":"",
+<<<<<<< HEAD
     "auto_kick_afk_capacity":0.5,
     "end_round_on_team_unbalance_after_warning_time":30,
     "hiveranking":true,
     "jit_maxtrace":25000
+=======
+    "auto_team_balance":{
+      "enabled_after_seconds":10,
+      "enabled":true,
+      "enabled_on_unbalance_amount":2
+    },
+    "end_round_on_team_unbalance_after_warning_time":30,
+    "filler_bots":12,
+    "mod_backup_servers":[]
+>>>>>>> 621c634993bce45fa1d77f7106b79a1c0f1bec7d
   }
 }
