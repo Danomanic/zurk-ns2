@@ -32,7 +32,7 @@
     "UseLocalFileStats": false,
     "VoteConstraints": {
         "InGame": {
-            "FractionNeededToPass": 0.35,
+            "FractionNeededToPass": 0.75,
             "MinAverageDiffToAllowShuffle": 70,
             "MinPlayerFractionToConstrainSkillDiff": 0.9,
             "MinPlayers": 8,
@@ -50,7 +50,7 @@
     "VoteCooldownInMinutes": 0.13,
     "VotePassActions": {
         "InGame": {
-            "DurationInMinutes": 0.67,
+            "DurationInMinutes": 15,
             "EnforcementDurationType": "TIME",
             "EnforcementPolicy": [
                 {

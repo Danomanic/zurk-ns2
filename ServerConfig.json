@@ -4,7 +4,7 @@
     "max_http_requests":8,
     "quickplay_ready":true,
     "rookie_only":false,
-    "force_even_teams_on_join":true,
+    "force_even_teams_on_join":false,
     "enabledyndns":false,
     "rookie_only_bots":12,
     "jit_maxtrace":25000,
