@@ -1,7 +1,8 @@
 {
     "DelayBeforeMovingInSeconds": 4,
     "DistanceToCheck": 8,
-    "MinTime": 5,
-    "TimeBetweenUse": 20,
-    "__Version": "1.1"
+    "MinTimeInSeconds": 5,
+    "MovementToleranceDistance": 0.5,
+    "TimeBetweenUseInSeconds": 20,
+    "__Version": "1.2"
 }

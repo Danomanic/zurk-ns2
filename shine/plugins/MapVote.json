@@ -58,6 +58,7 @@
     "MaxExtends": 1,
     "MaxOptions": 8,
     "MaxRevotes": 1,
+    "MaxVoteChoicesPerPlayer": 4,
     "NextMapVoteMapTimeFraction": 1,
     "Nominations": {
         "AllowExcludedMaps": false,
@@ -79,5 +80,6 @@
         "ConsiderSpectatorsInVotes": true
     },
     "VoteTimeoutInSeconds": 60,
-    "__Version": "1.11"
+    "VotingMode": "SINGLE_CHOICE",
+    "__Version": "1.12"
 }

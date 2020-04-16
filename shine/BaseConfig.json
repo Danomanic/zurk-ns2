@@ -6,7 +6,7 @@
         "improvedchat": true
     },
     "ActiveExtensions": {
-        "adverts": true,
+        "adverts": false,
         "afkkick": true,
         "autoperfprofile": false,
         "badges": true,
@@ -51,6 +51,7 @@
         "rookiesonly": false,
         "roundlimiter": false,
         "serverswitch": true,
+        "switchteams": false,
         "tier_info": true,
         "tournamentmode": false,
         "unstuck": true,
@@ -58,6 +59,7 @@
         "vacplus": true,
         "verboselogging": false,
         "votealltalk": false,
+        "votedraw": false,
         "voterandom": true,
         "votesurrender": true,
         "welcomemessages": true,
@@ -75,6 +77,7 @@
     "GetUsersFromWeb": false,
     "GetUsersWithPOST": false,
     "LogDir": "config://shine/logs/",
+    "LogLevel": "INFO",
     "MaxCommandsPerSecond": 3,
     "NotifyAdminAnonymous": false,
     "NotifyAnonymous": false,
