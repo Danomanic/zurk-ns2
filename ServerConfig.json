@@ -7,7 +7,7 @@
     "force_even_teams_on_join":false,
     "enabledyndns":false,
     "rookie_only_bots":12,
-    "jit_maxtrace":25000,
+    "jit_maxtrace":20000,
     "use_own_consistency_config":false,
     "season_month":0,
     "hiveranking":true,
