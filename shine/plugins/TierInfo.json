@@ -14,5 +14,6 @@
     "EnableTierSkill": true,
     "EnableTime": true,
     "EnableTimeComm": true,
-    "EnableTimeTeam": true
+    "EnableTimeTeam": true,
+    "__Version": "1.0"
 }
