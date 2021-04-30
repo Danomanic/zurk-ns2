@@ -2,6 +2,13 @@
     "ApplyToBots": false,
     "AutoShuffleAtRoundStart": false,
     "BalanceMode": "HIVE",
+    "BalanceModeConfig": {
+        "HIVE": {
+            "BlendAlienCommanderAndFieldSkills": false,
+            "UseCommanderSkill": true,
+            "UseTeamSkill": true
+        }
+    },
     "BlockAfterRoundTimeInMinutes": 2,
     "BlockBotsAfterShuffle": false,
     "BlockUntilSecondsIntoMap": 0,
@@ -24,6 +31,7 @@
         "CostWeighting": "MEDIUM",
         "FriendGroupInviteCooldownInSeconds": 15,
         "FriendGroupInviteDurationInSeconds": 15,
+        "FriendGroupRestoreTimeoutSeconds": 300,
         "MaxFriendGroupSize": 3,
         "MaxHistoryRounds": 7,
         "MinRoundLengthToRecordInSeconds": 120,
@@ -87,8 +95,9 @@
     "VoteSettings": {
         "AFKTimeInSeconds": 50,
         "ConsiderAFKPlayersInVotes": false,
+        "ConsiderSpectatorsDuringActiveRound": true,
         "ConsiderSpectatorsInVotes": true
     },
     "VoteTimeoutInSeconds": 120,
-    "__Version": "2.8"
+    "__Version": "2.12"
 }

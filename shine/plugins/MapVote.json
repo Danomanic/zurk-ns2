@@ -77,9 +77,10 @@
     "VoteSettings": {
         "AFKTimeInSeconds": 80,
         "ConsiderAFKPlayersInVotes": false,
+        "ConsiderSpectatorsDuringActiveRound": true,
         "ConsiderSpectatorsInVotes": true
     },
     "VoteTimeoutInSeconds": 60,
     "VotingMode": "SINGLE_CHOICE",
-    "__Version": "1.12"
+    "__Version": "1.13"
 }

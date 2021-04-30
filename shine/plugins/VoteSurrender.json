@@ -1,16 +1,15 @@
 {
     "AllowVoteWithMultipleBases": true,
-    "LastCommandStructureMinHealthPercent": 0,
+    "FractionOfPlayersNeeded": 0.65,
+    "FractionOfPlayersNeededInEarlyGame": 0,
+    "LastCommandStructureMinHealthFraction": 0,
     "MinPlayers": 1,
-    "PercentNeeded": 0.65,
-    "PercentNeededInEarlyGame": 0,
     "SkipSequence": false,
-    "VoteDelay": 0,
+    "VoteDelayInMinutes": 0,
     "VoteSettings": {
         "AFKTimeInSeconds": 60,
-        "ConsiderAFKPlayersInVotes": true,
-        "ConsiderSpectatorsInVotes": true
+        "ConsiderAFKPlayersInVotes": true
     },
-    "VoteTimeout": 120,
-    "__Version": "1.4"
+    "VoteTimeoutInSeconds": 120,
+    "__Version": "1.6"
 }
