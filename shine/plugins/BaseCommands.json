@@ -21,7 +21,7 @@
         "BWLimit": 100,
         "Interp": 100,
         "MoveRate": 26,
-        "SendRate": 25,
+        "SendRate": 20,
         "TickRate": 30
     },
     "VoteSettings": {
