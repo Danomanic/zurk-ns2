@@ -1,6 +1,6 @@
 {
   "maps":["ns2_biodome","ns2_veil","ns2_unearthed","ns2_docking","ns2_descent","ns2_tram","ns2_eclipse","ns2_kodiak","ns2_mineshaft","ns2_refinery","ns2_summit","ns2_origin"],
   "time":30,
-  "mode":"order",
-  "mods":["4241b84e","626fc17b","c6fbbb0","b7149f9","72c5fd4e","334982d2","706d242","235ee3a6"]
+  "mode":"random",
+  "mods":["4241b84e","334982d2","235ee3a6","72c5fd4e","c6fbbb0","706d242","626fc17b","b7149f9","744eb9f4","3462371a"]
 }
